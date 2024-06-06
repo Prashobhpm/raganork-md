@@ -1,9 +1,9 @@
 {
-  "name": "raganork-md",
+  "name": "achu-md",
   "version": "5.0.0",
   "description": "A light weight WhatsApp bot.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": " 6am start . --attach --name Raganork"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     "multi-device"
   ],
   "author": "Sourav",
-  "developer": "@souravkl11",
+  "developer": "@achumodex",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
